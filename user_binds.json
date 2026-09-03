@@ -1,0 +1,78 @@
+[
+  {
+    "Command": "bind F10 \"toggle voice_enable\"",
+    "Description": "Вкл/Выкл голосовой чат"
+  },
+  {
+    "Command": "bind F11 \"toggle cl_showpos 0 1\"",
+    "Description": "Показать/скрыть координаты"
+  },
+  {
+    "Command": "bind F12 \"kill\"",
+    "Description": "Самоубийство"
+  },
+  {
+    "Command": "bind \"n\" \"+lookatweapon\"",
+    "Description": "Осмотр оружия"
+  },
+  {
+    "Command": "bind \"v\" \"+voicerecord\"",
+    "Description": "Голосовая связь (микрофон)"
+  },
+  {
+    "Command": "bind \"space\" \"+jump\"",
+    "Description": "Прыжок"
+  },
+  {
+    "Command": "bind \"ctrl\" \"+duck\"",
+    "Description": "Приседание"
+  },
+  {
+    "Command": "bind \"shift\" \"+speed\"",
+    "Description": "Ходьба бесшумно"
+  },
+  {
+    "Command": "bind \"tab\" \"+showscores\"",
+    "Description": "Таблица счёта"
+  },
+  {
+    "Command": "bind \"m\" \"+teammenu\"",
+    "Description": "Меню команды"
+  },
+  {
+    "Command": "bind \"u\" \"+usermessage\"",
+    "Description": "Сообщение в чат команды"
+  },
+  {
+    "Command": "bind \"y\" \"+chat\"",
+    "Description": "Чат всем"
+  },
+  {
+    "Command": "bind \"z\" \"radio1\"",
+    "Description": "Радио-команда 1"
+  },
+  {
+    "Command": "bind \"x\" \"radio2\"",
+    "Description": "Радио-команда 2"
+  },
+  {
+    "Command": "bind \"c\" \"radio3\"",
+    "Description": "Радио-команда 3"
+  },
+  {
+    "Command": "bind \"mouse1\" \"+attack\"",
+    "Description": "Атака (огонь)"
+  },
+  {
+    "Command": "bind \"mouse2\" \"+attack2\"",
+    "Description": "Альтернативная атака (прицел)"
+  },
+  {
+    "Command": "bind \"mwheelup\" \"invprev\"",
+    "Description": "Предыдущее оружие"
+  },
+  {
+    "Command": "bind \"mwheeldown\" \"invnext\"",
+    "Description": "Следующее оружие"
+  }
+]

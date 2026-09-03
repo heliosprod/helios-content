@@ -1,0 +1,54 @@
+{
+  "Maps": [
+    {
+      "Name": "Dust II",
+      "ImagePath": "Images/dust2.jpg",
+      "Positions": [
+        {
+          "Id": null,
+          "Name": "Mid door",
+          "Description": "Смок в двери",
+          "GrenadeType": "Smoke",
+          "VideoUrl": "https://www.youtube.com/watch?v=is_G_MrpYu4"
+        },
+        {
+          "Id": null,
+          "Name": "b window",
+          "Description": "Смок B двери",
+          "GrenadeType": "Smoke",
+          "VideoUrl": "https://www.youtube.com/shorts/OrTbqzYgDQk"
+        }
+      ]
+    },
+    {
+      "Name": "Mirage",
+      "ImagePath": "Images/mirage.png",
+      "Positions": []
+    },
+    {
+      "Name": "Inferno",
+      "ImagePath": "Images/inferno.png",
+      "Positions": []
+    },
+    {
+      "Name": "Vertigo",
+      "ImagePath": "Images/vertigo.png",
+      "Positions": []
+    },
+    {
+      "Name": "Cache",
+      "ImagePath": "Images/cache.png",
+      "Positions": []
+    },
+    {
+      "Name": "Anubis",
+      "ImagePath": "Images/anubis.png",
+      "Positions": []
+    },
+    {
+      "Name": "Ancient",
+      "ImagePath": "Images/ancient.png",
+      "Positions": []
+    }
+  ]
+}
