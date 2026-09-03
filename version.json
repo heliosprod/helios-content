@@ -3,6 +3,6 @@
   "files": [
     "Data/positions.json",
     "Data/user_binds.json",
-    "Configs"
+    "Configs/PlayerConfs"
   ]
 }
